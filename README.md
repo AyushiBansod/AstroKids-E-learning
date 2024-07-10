@@ -1,2 +1,3 @@
-# AstroKids E-Learning Platform
-AstroKids provides free, engaging education for kids on space technology, planets, the universe, and astronomy. This platform features videos, quizzes, and a 3D Solar System to make learning about the cosmos fun and educational.
+# AstroKids E-Learning 
+AstroKids delivers free, engaging lessons on space technology, planets, the universe, and astronomy. With its videos, quizzes, and an interactive 3D Solar System, the platform makes exploring the cosmos both fun and educational for kids.
+
